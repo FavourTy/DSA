@@ -19,3 +19,7 @@ Data Structures and Algorithms are fundamental concepts in computer science that
 # HOW TO USE THE REPOSITORY
 Feel free to explore the code in this repository to deepen your understanding of data structures and algorithms. You can use the code as a reference, study material, or even contribute by improving existing implementations or adding new ones. To get started:
 * Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/favourTy/DSA.git
+* Explore the Dart files within the repository to study data structures and algorithms implementations.
+* Experiment with the code, make improvements, and test different scenarios.
